@@ -338,3 +338,26 @@ footer {
     padding-top: 20px;
   }
 }
+
+  
+.blast:hover{
+  -webkit-box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  -moz-box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+ 
+}
+
+.sky:hover{
+  -webkit-box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  -moz-box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+ 
+}
+
+.launch:hover{
+  -webkit-box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  -moz-box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  box-shadow: 10px 10px 25px 1px rgba(240,13,5,0.83);
+  
+}
+/* could have made a varible for these effects, but could not get it to work in .less file */
